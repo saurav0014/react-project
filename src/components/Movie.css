@@ -1,0 +1,12 @@
+body{
+    background-color:#22254b;
+}
+.movie:hover .overview {
+    transform: translateY(0);
+  }
+  .movie-info span {
+    background-color:#22254b;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+    font-weight: bold;
+}
